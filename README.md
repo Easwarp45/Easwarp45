@@ -49,6 +49,8 @@
 - ⚛️ Advanced React
 - 🌐 API Integration
 - 📱 Responsive UI Design
+- 📊 Data Analytics
+- 🕸️ Web Development 
 
 ---
 
