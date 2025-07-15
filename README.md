@@ -11,7 +11,6 @@
 - 🧠 Currently sharpening my skills in **React**, **TypeScript**, and **Tailwind CSS**  
 - 📈 Always curious about building products that solve real-world problems  
 - 🛠️ Building cool things, one commit at a time...
-- 📞 [Email ](easwap45gmail.com)
 
 ---
 
@@ -21,7 +20,8 @@
 - 🏆 [Credly Certifications](https://www.credly.com/users/easwaramurthy-p)
 - 🖼️ Instagram: [@eswar.png](https://instagram.com/eswar.png)
 - 🐦 Twitter/X: [@Easwarp45](https://twitter.com/Easwarp45)
-
+- 📞  Email :
+[Email ](easwap45gmail.com)
 ---
 
 ## 🔧 Tech Stack
