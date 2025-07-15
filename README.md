@@ -11,6 +11,7 @@
 - 🧠 Currently sharpening my skills in **React**, **TypeScript**, and **Tailwind CSS**  
 - 📈 Always curious about building products that solve real-world problems  
 - 🛠️ Building cool things, one commit at a time...
+- 📞 @easwap45gmail.com
 
 ---
 
