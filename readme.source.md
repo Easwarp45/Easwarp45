@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://easwar-profile.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Interactive%20Profile-00d4ff?style=for-the-badge&logo=vercel&logoColor=black" alt="Interactive Profile" />
+  </a>
+</div>
+
+<br />
+
 ```aura width=820 height=200
 <div style={{
   width: '820px', height: '200px',
@@ -269,6 +277,7 @@
   fontFamily: 'Inter',
 }}>
   {[
+    { label: 'Website', color: '#00d4ff', short: 'WEB' },
     { label: 'LinkedIn', color: '#0A66C2', short: 'IN' },
     { label: 'GitHub', color: '#e6edf3', short: 'GH' },
     { label: 'Credly', color: '#FF6B35', short: 'CR' },
@@ -289,6 +298,19 @@
   ))}
 </div>
 ```
+<div align="center">
+  <a href="https://easwar-profile.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00d4ff?style=for-the-badge&logo=vercel&logoColor=black" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/easwaramurthy-p-8b561a294" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.credly.com/users/easwaramurthy-p" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+  </a>
+</div>
+
+<br />
 
 <div align="center">
 
